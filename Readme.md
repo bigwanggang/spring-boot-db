@@ -1,1 +1,1 @@
-Update Spring Boot from 1.3.2 to 1.4.2
+这个springboot关于数据库的例子中mysql的单元测试时用mysql数据库进行测试，单元测试用H2内存数据库更好一些，怎样用H2来进行单元测试？
